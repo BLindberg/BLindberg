@@ -1,8 +1,5 @@
 
 <html>
-  <head>
-    <title>Rumpe</title> 
- </head>
  <body>
    
    <h1>Halla</h1>
